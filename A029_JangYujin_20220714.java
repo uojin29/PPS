@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A029_13 {
+public class A029_JangYujin_20220714 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long N = sc.nextLong();

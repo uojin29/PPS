@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-class A004_1 {
+class A004_JangYujin_20220713 {
     public int[] solution(int[] arr, int divisor) {
         int[] answer = {};
         ArrayList<Integer> list = new ArrayList<Integer>();

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class A034_17_3052 {
+public class A034_JangYujin_20220714 {
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
         HashSet<Integer> h = new HashSet<>();

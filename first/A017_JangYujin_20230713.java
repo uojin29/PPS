@@ -1,5 +1,5 @@
 import java.io.*;
-public class A017_JangYujin_20220713 {
+public class A017_JangYujin_20230713 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String s = br.readLine();

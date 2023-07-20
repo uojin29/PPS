@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A031_JangYujin_20220714 {
+public class A031_JangYujin_20230714 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

@@ -1,4 +1,4 @@
-public class A009_JangYujin_20220713 {
+public class A009_JangYujin_20230713 {
     class Solution {
             public boolean solution(String s) {
                 if(s.length() == 4 || s.length() == 6) {
